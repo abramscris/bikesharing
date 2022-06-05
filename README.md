@@ -5,8 +5,9 @@ Project based on data from August 2019 of website https://ride.citibikenyc.com/s
 ## Project Overview
 
 This analysis intends to show the discoveries found on the data of August 2019 referring to the bikeshare services CitiBike used in New York City, studying this time of the year as high summer location, this project will dive in the usability and recommendations for investors looking to begin similar services on the area of Des Moines, Iowa. Specifying customer gender targets, maintenance recommendations, time of usage data and classifying types of users.
-You can check details of Tableau analysis on the link 
-https://public.tableau.com/app/profile/cristiane.abrams/viz/Citibike_analysis/CitiBikeAnalysis082019?publish=yes
+You can check details of Tableau analysis on the 
+[link to dashboard](https://public.tableau.com/app/profile/cristiane.abrams/viz/Citibike_analysis/CitiBikeAnalysis082019?publish=yes)
+
 
 ## Results
 
